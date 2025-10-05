@@ -6,7 +6,6 @@ I'm a passionate data analytics enthusiast with a focus on extracting meaningful
 
 ## Skills
 - *Programming*: Excel,Power BI,Python,SQL
-- https://img.icons8.com/3d-fluency/94/python.png
 - *Data Visualization*: Excel,Power BI,SQL,Python
 - *Tools*: Excel, Jupyter Notebook, Git
 - *Concepts*: Data Cleaning, Business Analysis
